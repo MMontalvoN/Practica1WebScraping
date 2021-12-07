@@ -6,9 +6,8 @@ Esta práctica se ha realizado bajo el contexto de la asignatura Tipología y ci
 La actividad ha sido realizada de manera individual por Miguel Ángel Montalvo Navidad.
 
 ## Ficheros del código fuente:
-1. **src/main.py**:
-2. **src/main.py**:
-3. **src/main.py**:
+1. **WebScraping/main.py**: Contiene la implementación de la técnica de scraping en Python.
+2. **WebScraping/CSV/WebScraping_Cladificacion.csv**: Conjunto de datos (dataset) obtenidos del scraping.
 
 ## Recursos:
 * Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
